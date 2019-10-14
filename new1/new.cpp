@@ -15,6 +15,7 @@ int main()
 		}
 		else
 		{
+			
 			printf("Æ²·È¾î¿ä! \n");
 		}
 	}
